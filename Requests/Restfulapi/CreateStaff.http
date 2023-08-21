@@ -1,0 +1,11 @@
+POST http://localhost:5286/Restfulapi
+content-Type:application/json
+
+{
+  "first_name": "Jason",
+  "last_name": "White",
+  "age":"32",
+  "email": "Jason.white@gmail.com",
+  "contact": "0456897654",
+  "access_level": "admin"
+}

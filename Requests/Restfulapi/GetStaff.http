@@ -1,0 +1,3 @@
+@id=1
+GET http://localhost:5286/restfulapi/{{id}}
+content-Type:application/json
